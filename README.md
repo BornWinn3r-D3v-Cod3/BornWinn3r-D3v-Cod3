@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://github.com/BornWinn3r-D3v-Cod3/BornWinn3r-D3v-Cod3/assets/110320844/ebfafc5b-b2d9-4dd2-a3e1-95442646065c" width="500px" />
+<img align="right" height="590em" src="https://github.com/BornWinn3r-D3v-Cod3/BornWinn3r-D3v-Cod3/assets/110320844/ebfafc5b-b2d9-4dd2-a3e1-95442646065c" width="470px" />
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm ADONAI REICHERT. </h1>
 
 
